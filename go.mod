@@ -1,4 +1,4 @@
-module github.com/cxlvnn/gomodoro.git
+module github.com/cxlvnn/gomodoro
 
 go 1.27.4
 
